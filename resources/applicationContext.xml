@@ -6,7 +6,7 @@
 
     <!-- services -->
         <bean id = "myPet"
-              class= "spring_introduction.Cat">
+              class= "spring_introduction.Dog">
 
         </bean>
     <!-- more bean definitions for services go here -->
